@@ -42,7 +42,7 @@ export default function About({ }: Props) {
                     {" "} a little better
                 </h4>
                 <p className='text-base'>
-                    I'm a skilled computer scientist with a Bachelor of Science in Computer Science from the Univesity of Calgary, holding a remarkable 3.63 GPA and recognized as a Distinction Student and Dean's List Student.
+                    I am a skilled computer scientist with a Bachelor of Science in Computer Science from the Univesity of Calgary, holding a remarkable 3.63 GPA and recognized as a Distinction Student and Dean List Student.
                     With experience as a Software Developer Intern at ATB Financial, I have a track record of implementing impactful solutions.
                     <br />
                     <br />

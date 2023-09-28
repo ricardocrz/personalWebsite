@@ -9,7 +9,7 @@ function LinkedIn({ }: Props) {
             <h4 className='text-4xl'><span className='underline decoration-[#F7AB0A]'>Project 1</span>: LinkedIn Clone (JavaScript)</h4>
             <ul className="relative list-disc space-y-4 ml-5 max-h-[300px]">
                 <li>Created a responsive front-end design for LinkedIn using Material UI.</li>
-                <li>Integrated Firebase's back-end functionality API to develop user profiles.</li>
+                <li>Integrated a Firebase back-end functionality API to develop user profiles.</li>
                 <li>Enhanced security through email and password authentication for the landing page via Firebase Console.</li>
                 <li>Implemented real time post threads using React Hooks for refreshing website snapshots.</li>
                 <li>Resolved prop drilling issues by introducing Redux for seamless data payload flow management.</li>
