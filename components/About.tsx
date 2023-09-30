@@ -18,7 +18,7 @@ export default function About({ }: Props) {
             className='flex flex-col relative h-screen text-center md:text-left
         md:flex-row max-w-7xl px-10 justify-evenly mx-auto items-center'>
             <h3 className="absolute top-24 uppercase tracking-[20px] text-gray-500 text-2xl">about</h3>
-            <motion.img src="/updatedAboutPhoto.png" alt=""
+            <motion.img src="https://scontent.fyyc7-1.fna.fbcdn.net/v/t39.30808-6/383547542_6067124406721712_5677578484725792747_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=71HaIK11gt4AX-oE-3n&_nc_ht=scontent.fyyc7-1.fna&oh=00_AfB0jX4EPO-09Vx-9p1X1dbZjo5BBqBrUXryL7UhpE2RDQ&oe=651DBC3C" alt=""
                 className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-96 xl:w-[500px] xl:h-[600px] xl:mt-[100px]"
                 initial={{
                     x: -200,
